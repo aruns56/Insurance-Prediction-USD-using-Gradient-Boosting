@@ -1,2 +1,2 @@
 # Insurance-Prediction-USD-using-Gradient-Boosting
-Insurance Dataset
+Insurance prediction deployed using Streamlit
